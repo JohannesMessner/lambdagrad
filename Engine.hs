@@ -1,6 +1,6 @@
 module Engine where
 
-import HuskyData
+import Data
 
 
 backward :: Node -> Node  -- calculates the gradient of each node in the graph
